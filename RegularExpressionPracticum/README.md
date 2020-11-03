@@ -13,9 +13,13 @@ The algorithm is linear(O(len(expression))) , as processing of each symbol takes
 
 ## How to run the program
 To run the program use:
+
 make run_main
+
 ./run_main
 
 To run tests use:
+
 make run_tests
+
 ./run_tests
