@@ -12,14 +12,10 @@ But instead of expressions themselves we will keep pairs of integers in the stac
 The algorithm is linear(O(len(expression))) , as processing of each symbol takes O(1) time.
 
 ## How to run the program
-To run the program use:
-
-make run_main
-
+To run the program use:  
+make run_main  
 ./run_main
 
-To run tests use:
-
-make run_tests
-
+To run tests use:  
+make run_tests  
 ./run_tests
