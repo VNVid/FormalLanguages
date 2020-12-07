@@ -1,2 +1,0 @@
-ab+c.aba.*.bac.+.+* a 2
-YES
