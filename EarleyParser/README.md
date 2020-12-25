@@ -26,8 +26,8 @@ Example of correct input:
 3   
 S aSbS    
 S bSaS  
-S 
-2 
+S   
+2   
 abba  
 bab 
 
