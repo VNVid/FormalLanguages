@@ -1,0 +1,15 @@
+3
+S aSbS
+S bSaS
+S
+5
+abba
+1
+abb
+0
+
+1
+aaaaabbbbabb
+1
+bbbbbb
+0

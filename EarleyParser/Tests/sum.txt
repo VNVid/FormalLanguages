@@ -1,0 +1,23 @@
+7
+A +aA
+A +bA
+A +cA
+A
+S aA
+S bA
+S cA
+7
+a
+1
+c
+1
+aa
+0
++b+c
+0
+a+b+c+b+c+a+a
+1
+a+a+a+a+
+0
+
+0
