@@ -22,15 +22,15 @@ Firstly, enter number of production rules. Then the rules themselves, each on a 
 Secondly, enter number of words you want to check. And then input the words.
 
 
-Example of correct input:
-3
-S aSbS
-S bSaS
-S
-2
-abba
-bab
+Example of correct input: 
+3 
+S aSbS  
+S bSaS  
+S 
+2 
+abba  
+bab 
 
-Output:
-Yes
-No
+Output: 
+Yes 
+No  
