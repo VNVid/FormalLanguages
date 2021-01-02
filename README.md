@@ -1,6 +1,6 @@
 # FormalLanguages
 ---
-## RegularExpressionPracticum
-The task is to find out whether the input regular expression,given in inverted Polish notation in alphabet L = {a, b, c, 1, +, ., *}, specifies a word with prefix _letter_^n. 
+## Earley Parser Practicum
+The algorithm checks whether a word belongs to a given context-free language or not.
   
 Read the "README.md" file in the folder for description and analysis.
